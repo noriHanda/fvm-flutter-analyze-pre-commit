@@ -1,5 +1,5 @@
--   id: flutter-analyze
-    name: Flutter Code Analyze
+-   id: fvm-flutter-analyze
+    name: Flutter Code Analyze with fvm
     entry: run
     language: script
     files: \.dart$
